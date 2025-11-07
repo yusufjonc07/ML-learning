@@ -40,3 +40,6 @@ results/
 # OS specific
 .DS_Store
 Thumbs.db
+
+.ipynb_checkpoints/
+.virtual_documents/
