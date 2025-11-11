@@ -17,7 +17,7 @@ dist/
 
 
 # Data and models (AI specific)
-data/
+# data/
 models/
 checkpoints/
 logs/
